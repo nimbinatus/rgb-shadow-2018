@@ -16,3 +16,7 @@ create while we explore software development.
 ## Can I see a bit about what we're doing?
 
 Sure! Go check out the [sample](samples.md) I've posted.
+
+## I want to try this!
+
+Awesome! Go [here](get-started.md) for directions to get started.
